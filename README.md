@@ -1,3 +1,5 @@
+Archived on 7 October 2026. This repository is retained as a historical reference and is no longer maintained.
+
 # Open R1
 
 *A fully open reproduction of DeepSeek-R1. This repo is a work in progress, let's build it together!*
